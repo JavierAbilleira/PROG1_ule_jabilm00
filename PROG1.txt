@@ -8,5 +8,3 @@ mesa — https://dle.rae.es/mesa
 silla — https://dle.rae.es/silla
 coche — https://dle.rae.es/coche
 casa — https://dle.rae.es/casa
-algoritmo - https://dle.rae.es/algoritmo
-programa - https://dle.rae.es/programa
